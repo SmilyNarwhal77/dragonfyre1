@@ -1,0 +1,7 @@
+.coming-soon {
+  visibility: hidden
+}
+li:hover ul {
+  display: block
+}
+  
