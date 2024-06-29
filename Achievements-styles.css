@@ -10,6 +10,9 @@ li ul{
 ul > ul li {
   display:none;
 }
+ul > li:hover ul {
+  display: block
+}
 .Platinum {
   color: #e5e4e2;
   font-weight: 850;
