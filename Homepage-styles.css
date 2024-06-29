@@ -29,5 +29,7 @@ footer {
   border: 4px groove #11aa88;
   font-size: 12px;
   width: 300px;
-  margin-left: 2.5em
+  margin-left: 2.5em;
 }
+.coming-soon {
+  visibility: hidden;
