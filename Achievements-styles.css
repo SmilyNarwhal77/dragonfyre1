@@ -7,3 +7,15 @@ li:hover ul {
 li ul{
   display: none
 }
+.Platinum {
+  color: #e5e4e2;
+  font-weight: 850;
+}
+.Gold {
+  color: #FFD700;
+  font-weight: 700;
+}
+.Silver {
+  color: #C0C0C0;
+  font-weight: 550;
+}
