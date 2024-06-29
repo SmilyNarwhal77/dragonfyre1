@@ -1,1 +1,25 @@
+header {
+  position: sticky;
+  top: 0;
+  background-color: #ccccff
+}
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+.sidea {
+  margin: 1rem;
+  padding: 1rem 1rem;
+  display: flex;
+}
+.logb{
+  border: 2px ridge indigo;
+  background-color: #aaaaff;
+  font-family: "Comic Sans MS";
+  width: 300px;
+  padding: 1rem 1rem;
+  display: inline-block;
+  flex-flow: column wrap;
+  align-content: flex-start;
+}
 
