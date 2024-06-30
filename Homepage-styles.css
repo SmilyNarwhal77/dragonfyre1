@@ -27,16 +27,6 @@ span {
 html {
   height: 100%;
 }
-body{
-  display: grid;
-  grid-template-columns: 100px 100px 100px 100px;
-  grid-template-rows: 60px 60px 60px 60px 60px;
-  gap: 1rem 1rem;
-  font-size: 2rem;
-  height: 100%;
-  margin-left: 1rem;
-  width: 75vw;
-}
 header {
   position: sticky;
   top: 0;
@@ -45,6 +35,7 @@ header {
   border: 3px groove #C4F7FA;
 }
 footer {
+  font-family:"Comic Sans MS";
   border: 4px groove #11aa88;
 }
 
