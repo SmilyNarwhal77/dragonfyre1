@@ -40,10 +40,11 @@ footer {
 body {
   background-color: #dfdbff;
 }
-.Subscribe {
+.Subscribe, .Firsts, .Achievements {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 25vh;
   border: 5px double indigo
+  font-size: 200%
 }
