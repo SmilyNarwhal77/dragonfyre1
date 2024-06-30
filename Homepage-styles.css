@@ -38,4 +38,6 @@ footer {
   font-family:"Comic Sans MS";
   border: 4px groove #11aa88;
 }
-
+body {
+  background-color: #eeeeff;
+}
