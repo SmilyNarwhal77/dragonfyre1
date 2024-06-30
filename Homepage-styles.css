@@ -16,6 +16,7 @@ h1 {
   display: inline-block;
   flex-flow: column wrap;
   align-content: flex-start;
+  visibility: hidden;
 }
 span {
   color: #FFFF00;
