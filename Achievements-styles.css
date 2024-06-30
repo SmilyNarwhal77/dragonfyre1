@@ -1,11 +1,11 @@
 .coming-soon {
   visibility: hidden;
 }
-li:hover > ul {
+/* li:hover > ul {
   display: block;
 }
 li ul{
-  display: none;
+  display: none; */
 }
 .Platinum {
   color: #e5e4e2;
@@ -19,11 +19,11 @@ li ul{
   color: #C0C0C0;
   font-weight: 550;
 }
-ul > li:hover > ul {
+/* ul > li:hover > ul {
   display: block;
 }
 ul li ul {
-  display: none;
+  display: none; */
 }
 body {
   background-color: #AFDAE9
