@@ -19,9 +19,9 @@ li ul{
   color: #C0C0C0;
   font-weight: 550;
 }
-ul > li:hover {
+ul > li:hover > ul {
   display: block;
 }
-ul li {
-  display: none
+ul li ul {
+  display: none;
 }
