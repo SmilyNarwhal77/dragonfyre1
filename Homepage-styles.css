@@ -53,6 +53,9 @@ body {
   border: 7px double indigo;
   font-size: 150%;
 }
+.Subscribe {
+  color: #dfefcc
+}
 .Platinum {
   color: #00FFFF;
   font-weight: 850;
