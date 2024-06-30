@@ -40,6 +40,10 @@ footer {
 body {
   background-color: #dfdbff;
 }
-nav {
-  font-size: 300%
+.Subscribe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+  border: 5px double indigo
 }
