@@ -25,3 +25,6 @@ ul > li:hover > ul {
 ul li ul {
   display: none;
 }
+body {
+  background-color: #AFDAE9
+}
