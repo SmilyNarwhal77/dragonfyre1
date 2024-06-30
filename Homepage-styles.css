@@ -29,8 +29,6 @@ html {
   height: 100%;
 }
 header {
-  position: sticky;
-  top: 0;
   background-color: #FF00FF;
   border: 3px groove #C4F7FA;
   justify-content: center;
