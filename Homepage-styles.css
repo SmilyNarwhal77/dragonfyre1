@@ -49,8 +49,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 20vh;
-  border: 5px double indigo;
+  height: 15vh;
+  border: 7px double indigo;
   font-size: 150%;
 }
 .Platinum {
