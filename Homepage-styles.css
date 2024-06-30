@@ -21,7 +21,6 @@ h1 {
 span {
   color: #FFFF00;
 }
-
 .coming-soon {
   visibility: hidden;
 }
@@ -32,7 +31,6 @@ header {
   position: sticky;
   top: 0;
   background-color: #ccccff;
-  
   border: 3px groove #C4F7FA;
 }
 footer {
@@ -40,5 +38,5 @@ footer {
   border: 4px groove #11aa88;
 }
 body {
-  background-color: #cfcfff;
+  background-color: #dfdbff;
 }
