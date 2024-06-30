@@ -1,8 +1,3 @@
-header {
-  position: sticky;
-  top: 0;
-  background-color: #ccccff
-}
 h1 {
   color: blueviolet;
   text-align: center;
@@ -33,3 +28,33 @@ footer {
 }
 .coming-soon {
   visibility: hidden;
+}
+html {
+  height: 100%;
+}
+body{
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-rows: 60px 60px 60px 60px 60px;
+  gap: 1rem 1rem;
+  font-size: 2rem;
+  height: 100%;
+  margin-left: 1rem;
+  width: 75vw;
+}
+header {
+  position: sticky;
+  top: 0;
+  background-color: #ccccff;
+  grid-column: 1 / end;
+  grid-row: 1;
+  border: 3px groove #C4F7FA;
+}
+nav {
+  grid-column: 1 / end;
+  grid-row: 2;
+}
+  
+
+  
+  
