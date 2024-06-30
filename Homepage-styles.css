@@ -41,7 +41,8 @@ footer {
   border: 4px groove #11aa88;
 }
 body {
-  background-color: #dfdbff;
+  background-color: #000000;
+  color: #ffffff;
 }
 .Subscribe, .Firsts, .Achievements, .About {
   display: flex;
@@ -49,5 +50,16 @@ body {
   align-items: center;
   height: 20vh;
   border: 5px double indigo;
-  font-size: 250%
+  font-size: 250%;
 }
+.Platinum {
+  color: #D7D6D4;
+  font-weight: 850;
+}
+.Gold {
+  color: #FFD700;
+  font-weight: 700;
+}
+.Silver {
+  color: #C0C0C0;
+  font-weight: 600;
