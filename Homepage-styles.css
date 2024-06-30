@@ -49,7 +49,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 15vh;
+  height: 8vh;
   border: 7px double indigo;
   font-size: 150%;
 }
