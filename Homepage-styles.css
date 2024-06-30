@@ -45,6 +45,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 25vh;
-  border: 5px double indigo
+  border: 5px double indigo;
   font-size: 200%
 }
