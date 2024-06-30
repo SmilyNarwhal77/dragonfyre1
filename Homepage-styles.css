@@ -42,6 +42,7 @@ footer {
 body {
   background-color: #000044;
   color: #ffffff;
+  font-family: sans-serif;
 }
 .Subscribe, .Firsts, .Achievements, .About {
   display: flex;
