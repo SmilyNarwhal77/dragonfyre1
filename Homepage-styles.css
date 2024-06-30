@@ -32,6 +32,8 @@ header {
   top: 0;
   background-color: #ccccff;
   border: 3px groove #C4F7FA;
+  justify-content: center;
+  align-items: center;
 }
 footer {
   font-family:"Comic Sans MS";
