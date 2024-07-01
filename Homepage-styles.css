@@ -34,8 +34,6 @@ header {
   justify-content: center;
   align-items: center;
   display: flex;
-  height: 36vh;
-  font-size: 40px;
 }
 footer {
   font-family:"Comic Sans MS";
