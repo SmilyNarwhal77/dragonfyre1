@@ -14,7 +14,11 @@
       if(!connection) {
         echo 'a'
       }
-    
+      SELECT *
+        FROM wg1
+        WHERE $SP=5
+      $SP += 1
+      $power = $SP * $Soldiers
     ?>
   </body>
 </html>
