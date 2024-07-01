@@ -14,6 +14,7 @@
       if(!connection) {
         echo 'a'
       }
+    
     ?>
   </body>
 </html>
