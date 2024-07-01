@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>WG1</title>
-  </head>
-  <body>
-    <?php
+  <?php
       $host = 'localhost';
       $user = 'testuser379';
       $password = 'testuser379';
@@ -20,5 +14,3 @@
       $SP += 1
       $power = $SP * $Soldiers
     ?>
-  </body>
-</html>
