@@ -2,7 +2,7 @@
       $host = 'localhost';
       $user = 'testuser379';
       $password = 'testuser379';
-      $database = 'phpform\wg1';
+      $database = 'phpform';
 
       $connection = mysqli_connect($host, $user, $password, $database);
       if(!connection) {
